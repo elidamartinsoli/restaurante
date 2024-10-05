@@ -1,0 +1,155 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: arial;
+    background-color: f4f4f4;
+    color:  #5a5858;
+    text-align: center;
+}
+
+h1
+{
+    background-color: f4f4f4;
+    color: #5a5858;
+    text-align: center;
+}
+
+h2
+{
+    background-color: f4f4f4;
+    color:#5a5858;
+    text-align: center;
+}
+
+h3
+{
+    background-color: f4f4f4;
+    color:#5a5858;
+    text-align: center;
+}
+
+h4
+{
+    background-color: f4f4f4;
+    color:#5a5858;
+    text-align: center;
+}
+
+header
+{
+    background-color:  #f8c8c8;
+    color: #5a5858;
+    padding: 10px;
+    text-align: center;
+}
+
+section
+{
+    width: 95%;
+    margin: 0 auto;
+    box-align: left;
+    background-color: #fff;
+    padding: 30px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul
+{
+    list-style-type: none;
+    padding: 0;
+    color: #5a5858;
+}
+
+li
+{
+    margin-bottom: 10px;
+    color: #5a5858;
+}
+
+p
+{
+    background-color:  #f8c8c8;
+    color: #5a5858;
+    padding: 10px;
+    text-align: center;
+}
+
+form
+{  cursor: pointer;
+    padding: 20px ;
+    border: 1px solid #ccc;
+    gap: 20px; 
+    justify-content: center;
+    margin: 20px;
+
+}
+
+footer
+{
+    text-align: center;
+    padding: 10px;
+    background-color:  #f8c8c8;
+    color: #000000;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.whatsapp-button {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: #25D366; /* Cor do WhatsApp */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.whatsapp-icon {
+    width: 20px; 
+    height: 20px;
+    margin-right: 8px; 
+    align-items: center;
+}
+
+
+.instagram-button {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.instagram-icon {
+    width: 20px; /* Tamanho do ícone */
+    height: 20px;
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+}
+.button-container {
+    display: flex;
+    gap: 10px; 
+    align-items: center;
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    justify-content: center; 
+    }
